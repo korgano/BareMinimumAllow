@@ -1,0 +1,72 @@
+! Title: Kregano's Bare Minimum Allow List
+! Description: This list unblocks stuff that you might need 
+! Homepage: https://github.com/korgano/BareMinimumAllow
+! Issues: https://github.com/korgano/BareMinimumAllow/issues
+! Last modified: 20 Feb 2025 16:08 UTC
+! Version: 2025.0220.1608
+! Number of entries: 63
+
+lowes.com
+r20.rs6.net
+(\.|^)archive\.is$
+(\.|^)gleam\.io$
+(\.|^)archive\.md$
+(\.|^)iqconnect\.house\.gov/$
+(\.|^)wealthfront\.com$
+(\.|^)joistapp\.com$
+(\.|^)trilogyed\.com$
+(\.|^)bootcampspot\.com$
+(\.|^)sendgrid\.net$
+(\.|^)miro\.com$
+(\.|^)dtelepathy\.com$
+(\.|^)ecwcloud\.com$
+(\.|^)invisionapp\.com$
+(\.|^)stripe\.com$
+playback.video.meredithcorp.io
+imagesvc.meredithcorp.io
+cdn.video.meredithcorp.io
+(\.|^)zeplin\.io$
+ns-918.awsdns-50.net
+ns-65.awsdns-08.com
+ns-1250.awsdns-28.org
+ns-1894.awsdns-44.co.uk
+zeplin.s3-accelerate.amazonaws.com
+13.226.186.7
+(\.|^)https://www\.gog\.com/forum/$
+(\.|^)my\.cigna\.com$
+(\.|^)progressive\.com$
+(\.|^)fonts\.gstatic\.com$
+link.myfonts.com
+(\.|^)choosemyplate\.gov$
+(\.|^)spriters-resource\.com$
+(\.|^)icims\.com$
+(\.|^)paramountplus\.com$
+(\.|^)https://mcmasterhr\.iad1\.qualtrics\.com/$
+(\.|^)live\.remo\.co$
+(\.|^)opentok\.com$
+s.shopify.com
+cdn.optimizely.com
+tinyurl.com
+(\.|^)bit\.ly$
+ow.ly
+(\.|^)questdiagnostics\.com$
+login.microsoftonline.com
+officeclient.microsoft.com
+(\.|^)mi\.homedepot\.com$
+(\.|^)mandrillapp\.com$
+(\.|^)cl\.exct\.net/livecontent\.aspx$
+saa.cbsi.com
+s0.2mdn.net
+www.newsbreak.com
+(\.|^)screenrant\.com$
+(\.|^)sarna\.net$
+img-cdn.adrise.tv
+(\.|^)production-public\.tubi\.io$
+(\.|^)media\.tumblr\.com$
+(\.|^)embed\.tumblr\.com$
+files.wordpress.com
+rumble.com
+(\.|^)greenhouse\.io$
+(\.|^)cbsivideo\.com$
+(\.|^)cbsaavideo\.com$
+jnn-pa.googleapis.com
