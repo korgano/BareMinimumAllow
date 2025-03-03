@@ -2,10 +2,11 @@
 ! Description: This list unblocks stuff that you might need 
 ! Homepage: https://github.com/korgano/BareMinimumAllow
 ! Issues: https://github.com/korgano/BareMinimumAllow/issues
-! Last modified: 22 Feb 2025 9:45 EST
-! Version: 2025.0225.0945
-! Number of entries: 63
+! Last modified: 02 Mar 2025 10:40 EST
+! Version: 2025.0302.1040
+! Number of entries: 64
 
+slickdeals.net
 @@||lowes.com^
 @@||r20.rs6.net^
 @@||archive.is^
